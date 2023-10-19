@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fgliese
+- 👀 I’m interested in electrical engineering, especially in electric motor drives and control systems.
+- 🌱 I’m currently learning microcontroller programming using PLECS.
+- 💞️ I’m looking to collaborate on microcontroller programming.
